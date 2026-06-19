@@ -1,280 +1,80 @@
 {
   "districts": [
-    {
-      "name": "Agra",
-      "url": "https://agra.nic.in/?post_type=document&p=29634"
-    },
-    {
-      "name": "Aligarh",
-      "url": "https://aligarh.nic.in/event/events-announcements-houselisting-housing-census/"
-    },
-    {
-      "name": "Allahabad",
-      "url": "https://allahabad.nic.in/"
-    },
-    {
-      "name": "Amethi",
-      "url": "https://amethi.nic.in/hi/notice/%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4-%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%97%e0%a4%be%e0%a4%b0-%e0%a4%ac%e0%a5%80-%e0%a4%b8/"
-    },
-    {
-      "name": "Amroha",
-      "url": "https://amroha.nic.in/?post_type=document&p=33590"
-    },
-    {
-      "name": "Auraiya",
-      "url": "https://auraiya.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%95%e0%a5%80-%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a5%80/"
-    },
-    {
-      "name": "Azamgarh",
-      "url": "https://azamgarh.nic.in/notice/corrigendum-e-lottery-for-the-liquors-shops-of-excise-department-district-azamgarh/"
-    },
-    {
-      "name": "Bahraich",
-      "url": "https://bahraich.nic.in/hi/notice/%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be-%e0%a4%97%e0%a4%be%e0%a4%81%e0%a4%a7%e0%a5%80-%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80%e0%a4%af-%e0%a4%ac%e0%a4%be/"
-    },
-    {
-      "name": "Ballia",
-      "url": "https://ballia.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%a6%e0%a5%87%e0%a4%b8%e0%a5%80-%e0%a4%b6%e0%a4%b0%e0%a4%be%e0%a4%ac-%e0%a4%95%e0%a4%ae/"
-    },
-    {
-      "name": "Balrampur",
-      "url": "https://balrampur.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Banda",
-      "url": "https://banda.nic.in/hi/notice/%e0%a4%86%e0%a4%82%e0%a4%97%e0%a4%a8%e0%a4%b5%e0%a4%be%e0%a4%a1%e0%a4%bc%e0%a5%80-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80-%e0%a4%ad%e0%a4%b0%e0%a5%8d/"
-    },
-    {
-      "name": "Barabanki",
-      "url": "https://barabanki.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Bareilly",
-      "url": "https://bareilly.nic.in/hi/notice/%e0%a4%ac%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%b0%e0%a4%a3-%e0%a4%ac%e0%a4%b0-2/"
-    },
-    {
-      "name": "Basti",
-      "url": "https://basti.nic.in/hi/notice/%e0%a4%86%e0%a4%b0%e0%a5%8b%e0%a4%97%e0%a5%8d%e0%a4%af-%e0%a4%b8%e0%a5%87%e0%a4%a4%e0%a5%81-%e0%a4%86%e0%a4%88-%e0%a4%b5%e0%a5%80-%e0%a4%86%e0%a4%b0-%e0%a4%8f%e0%a4%b8-1921/"
-    },
-    {
-      "name": "Bhadohi",
-      "url": "https://bhadohi.nic.in/employment-office/"
-    },
-    {
-      "name": "Bijnor",
-      "url": "https://bijnor.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%9c%e0%a4%a8%e0%a4%aa%e0%a4%a6-%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%a8%e0%a5%8c%e0%a4%b0-19/"
-    },
-    {
-      "name": "Budaun",
-      "url": "https://budaun.nic.in/hi/notice/%e0%a4%85%e0%a4%a4%e0%a4%bf%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%a4-%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%80-%e0%a4%b8%e0%a5%82%e0%a4%9a/"
-    },
-    {
-      "name": "Chandauli",
-      "url": "https://chandauli.nic.in/hi/notice/%e0%a4%85%e0%a4%aa%e0%a5%80%e0%a4%b2-%e0%a4%8f%e0%a4%b5%e0%a4%82-%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%be%e0%a4%b5%e0%a4%a8%e0%a5%80-%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b5/"
-    },
-    {
-      "name": "Chitrakoot",
-      "url": "https://chitrakoot.nic.in/hi/notice/%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%ae%e0%a4%9c%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%9f/"
-    },
-    {
-      "name": "Deoria",
-      "url": "https://deoria.nic.in/hi/notice/%e0%a4%890%e0%a4%aa%e0%a5%8d%e0%a4%b00-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%95%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af%e0%a4%bf%e0%a4%a4/"
-    },
-    {
-      "name": "Etah",
-      "url": "https://etah.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Etawah",
-      "url": "https://etawah.nic.in/hi/notice/%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%ab%e0%a4%b0-%e0%a4%b8%e0%a5%87%e0%a4%b6%e0%a4%a8-2026-27-%e0%a4%95%e0%a5%87-%e0%a4%b2%e0%a4%bf%e0%a4%8f-%e0%a4%b8%e0%a5%8d%e0%a4%95/"
-    },
-    {
-      "name": "Faizabad",
-      "url": "https://ayodhya.nic.in/hi/notice/%e0%a4%9b%e0%a4%a0%e0%a5%87-%e0%a4%9a%e0%a4%b0%e0%a4%a3-%e0%a4%95%e0%a5%80-%e0%a4%88-%e0%a4%b2%e0%a4%be%e0%a5%85%e0%a4%9f%e0%a4%b0%e0%a5%80-%e0%a4%95%e0%a4%be-%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b2/"
-    },
-    {
-      "name": "Farrukhabad",
-      "url": "https://farrukhabad.nic.in/hi/notice/%e0%a4%88-%e0%a4%b2%e0%a5%89%e0%a4%9f%e0%a4%b0%e0%a5%80-%e0%a4%a4%e0%a5%83%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%9a%e0%a4%b0%e0%a4%a3-%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a4%be%e0%a4%82%e0%a4%95-23-04-2026/"
-    },
-    {
-      "name": "Fatehpur",
-      "url": "https://fatehpur.nic.in/district-election-officer/election-notice/"
-    },
-    {
-      "name": "Firozabad",
-      "url": "https://firozabad.nic.in/e-tender-for-mining/"
-    },
-    {
-      "name": "Ghaziabad",
-      "url": "https://ghaziabad.nic.in/en/notice/30-%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%a4-%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae-%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%af%e0%a4%a4%e0%a5%8b%e0%a4%82-%e0%a4%ae%e0%a5%87%e0%a4%82/"
-    },
-    {
-      "name": "Ghazipur",
-      "url": "https://ghazipur.nic.in/hi/notice_category/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%8F%E0%A4%82/"
-    },
-    {
-      "name": "Gonda",
-      "url": "https://gonda.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-2026-27-compressed/"
-    },
-    {
-      "name": "Gorakhpur",
-      "url": "https://gorakhpur.nic.in/announcement/"
-    },
-    {
-      "name": "Hamirpur",
-      "url": "https://hamirpur.nic.in/hi/notice/result/"
-    },
-    {
-      "name": "Hapur",
-      "url": "https://hapur.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf-%e0%a4%ac%e0%a4%b0%e0%a5%8d%e0%a4%b7-2025-26/"
-    },
-    {
-      "name": "Hardoi",
-      "url": "https://hardoi.nic.in/hi/notice/%e0%a4%88-%e0%a4%9f%e0%a5%87%e0%a4%82%e0%a4%a1%e0%a4%b0-%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%be%e0%a4%af%e0%a4%a4-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80/"
-    },
-    {
-      "name": "Hathras",
-      "url": "https://hathras.nic.in/hi/notice/%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a5%80%e0%a4%af-%e0%a4%b5%e0%a4%a8%e0%a4%be%e0%a4%a7%e0%a4%bf-3/"
-    },
-    {
-      "name": "Jalaun",
-      "url": "https://jalaun.nic.in/hi/notice_category/%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be/"
-    },
-    {
-      "name": "Jaunpur",
-      "url": "https://jaunpur.nic.in/hi/notice/%e0%a4%88-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%82%e0%a4%9f-%e0%a4%88-%e0%a4%9f%e0%a5%87%e0%a4%a3%e0%a5%8d%e0%a4%a1%e0%a4%b0-11/"
-    },
-    {
-      "name": "Jhansi",
-      "url": "https://jhansi.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Kannauj",
-      "url": "https://kannauj.nic.in/"
-    },
-    {
-      "name": "Kasganj",
-      "url": "https://kasganj.nic.in/hi/notice/%e0%a4%9c%e0%a4%a8%e0%a4%aa%e0%a4%a6-%e0%a4%95%e0%a4%be%e0%a4%b8%e0%a4%97%e0%a4%82%e0%a4%9c-%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%ac%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8c%e0%a4%b2/"
-    },
-    {
-      "name": "Kaushambi",
-      "url": "https://kaushambi.nic.in/"
-    },
-    {
-      "name": "Kheri",
-      "url": "https://kheri.nic.in/hi/notice/%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%95%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%bf%e0%a4%95-%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af/"
-    },
-    {
-      "name": "Kushinagar",
-      "url": "https://kushinagar.nic.in/hi/notice/%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%95%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%bf%e0%a4%95-%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2/"
-    },
-    {
-      "name": "Lakhimpur Kheri",
-      "url": "https://kheri.nic.in/hi/notice/%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%95%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%bf%e0%a4%95-%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af/"
-    },
-    {
-      "name": "Lalitpur",
-      "url": "https://lalitpur.nic.in/en/event/information-regarding-school-wise-subject-wise-and-post-wise-vacancies-in-lalitpur-district-and-the-list-identifying-surplus-teachers/"
-    },
-    {
-      "name": "Lucknow",
-      "url": "https://lucknow.nic.in/?post_type=document&p=39236"
-    },
-    {
-      "name": "Maharajganj",
-      "url": "https://maharajganj.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%95%e0%a5%80-%e0%a4%a8%e0%a4%b5%e0%a4%b8%e0%a5%83%e0%a4%9c%e0%a4%bf%e0%a4%a4-%e0%a4%a6%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8b/"
-    },
-    {
-      "name": "Mahoba",
-      "url": "https://mahoba.nic.in/hi/notice/%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%ac%e0%a4%be-%e0%a4%96%e0%a4%a8%e0%a4%a8-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b8%e0%a5%87-%e0%a4%b8%e0%a5%82%e0%a4%9a-6/"
-    },
-    {
-      "name": "Mainpuri",
-      "url": "https://mainpuri.nic.in/hi/notice_category/%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%8f%e0%a4%82/"
-    },
-    {
-      "name": "Mathura",
-      "url": "https://mathura.nic.in/hi/notice/%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a5%87%e0%a4%b6-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8-%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e/"
-    },
-    {
-      "name": "Mau",
-      "url": "https://mau.nic.in/en/notice/e-tender-notice-for-flood-shelters-and-relief-camps/"
-    },
-    {
-      "name": "Meerut",
-      "url": "https://meerut.nic.in/hi/notice/%e0%a4%a8%e0%a4%97%e0%a4%b0-%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6-%e0%a4%ae%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%be-%e0%a4%ae%e0%a5%87/"
-    },
-    {
-      "name": "Mirzapur",
-      "url": "https://mirzapur.nic.in/hi/notice/%e0%a4%89%e0%a4%aa%e0%a4%96%e0%a4%a8%e0%a4%bf%e0%a5%9b-%e0%a4%87%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80-%e0%a4%aa%e0%a4%a4%e0%a5%8d%e0%a4%a5%e0%a4%b0-%e0%a4%b8%e0%a5%88%e0%a4%82%e0%a4%a1/"
-    },
-    {
-      "name": "Moradabad",
-      "url": "https://moradabad.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Muzaffarnagar",
-      "url": "https://muzaffarnagar.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Pilibhit",
-      "url": "https://pilibhit.nic.in/hi/notice_category/%e0%a4%88-%e0%a4%b2%e0%a4%be%e0%a4%9f%e0%a4%b0%e0%a5%80/"
-    },
-    {
-      "name": "Pratapgarh",
-      "url": "https://pratapgarh.nic.in/auction-notice-office-of-the-district-judge-pratapgarh-2/"
-    },
-    {
-      "name": "Raebareli",
-      "url": "https://raebareli.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Rampur",
-      "url": "https://rampur.nic.in/hi/notice_category/%e0%a4%98%e0%a5%8b%e0%a4%b7%e0%a4%a3%e0%a4%be%e0%a4%8f%e0%a4%81/"
-    },
-    {
-      "name": "Saharanpur",
-      "url": "https://saharanpur.nic.in/hi/notice/%e0%a4%9b%e0%a5%81%e0%a4%9f%e0%a5%8d%e0%a4%9f%e0%a4%bf%e0%a4%af%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%80-%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a5%80/"
-    },
-    {
-      "name": "Sambhal",
-      "url": "https://sambhal.nic.in/hi/notice/%e0%a4%85%e0%a4%b5%e0%a4%b6%e0%a5%87%e0%a4%b7-%e0%a4%97%e0%a4%be%e0%a4%9f%e0%a5%8b%e0%a4%82-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%85%e0%a4%82%e0%a4%b6-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%a7/"
-    },
-    {
-      "name": "Shahjahanpur",
-      "url": "https://shahjahanpur.nic.in/hi/notice_category/%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%8f%e0%a4%82/"
-    },
-    {
-      "name": "Shamli",
-      "url": "https://shamli.nic.in/hi/notice/%e0%a4%88-%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be-%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%b5/"
-    },
-    {
-      "name": "Shravasti",
-      "url": "https://shravasti.nic.in/?page_id=26109&preview=true"
-    },
-    {
-      "name": "Siddharthnagar",
-      "url": "https://siddharthnagar.nic.in/hi/notice/%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%97-%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0-6/"
-    },
-    {
-      "name": "Sitapur",
-      "url": "https://sitapur.nic.in/hi/notice_category/%e0%a4%86%e0%a4%97%e0%a4%be%e0%a4%ae%e0%a5%80/"
-    },
-    {
-      "name": "Sonbhadra",
-      "url": "https://sonbhadra.nic.in/hi/notice/%e0%a4%85%e0%a4%9f%e0%a4%b2-%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%be-%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%ad%e0%a4%a6-2/"
-    },
-    {
-      "name": "Sultanpur",
-      "url": "https://sultanpur.nic.in/hi/notice_category/%e0%a4%a8%e0%a4%bf%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%8f%e0%a4%82/"
-    },
-    {
-      "name": "Unnao",
-      "url": "https://unnao.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%a6%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%80-%e0%a4%88-%e0%a4%b2%e0%a5%89%e0%a4%9f%e0%a4%b0%e0%a5%80-5-3/"
-    },
-    {
-      "name": "Varanasi",
-      "url": "https://varanasi.nic.in/hi/notice/%e0%a4%86%e0%a4%ac%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%88-%e0%a4%b2%e0%a4%be%e0%a4%9f%e0%a4%b0%e0%a5%80/"
-    }
+    { "name": "Agra" },
+    { "name": "Firozabad" },
+    { "name": "Mainpuri" },
+    { "name": "Mathura" },
+    { "name": "Aligarh" },
+    { "name": "Etah" },
+    { "name": "Hathras" },
+    { "name": "Kasganj" },
+    { "name": "Ambedkar Nagar" },
+    { "name": "Amethi" },
+    { "name": "Ayodhya" },
+    { "name": "Barabanki" },
+    { "name": "Sultanpur" },
+    { "name": "Azamgarh" },
+    { "name": "Ballia" },
+    { "name": "Mau" },
+    { "name": "Budaun" },
+    { "name": "Bareilly" },
+    { "name": "Pilibhit" },
+    { "name": "Shahjahanpur" },
+    { "name": "Basti" },
+    { "name": "Sant Kabir Nagar" },
+    { "name": "Siddharthnagar" },
+    { "name": "Banda" },
+    { "name": "Chitrakoot" },
+    { "name": "Hamirpur" },
+    { "name": "Mahoba" },
+    { "name": "Bahraich" },
+    { "name": "Balarampur" },
+    { "name": "Gonda" },
+    { "name": "Shravasti" },
+    { "name": "Deoria" },
+    { "name": "Gorakhpur" },
+    { "name": "Kushinagar" },
+    { "name": "Maharajganj" },
+    { "name": "Jalaun" },
+    { "name": "Jhansi" },
+    { "name": "Lalitpur" },
+    { "name": "Auraiya" },
+    { "name": "Etawah" },
+    { "name": "Farrukhabad" },
+    { "name": "Kannauj" },
+    { "name": "Kanpur Dehat" },
+    { "name": "Kanpur Nagar" },
+    { "name": "Hardoi" },
+    { "name": "Lakhimpur Kheri" },
+    { "name": "Lucknow" },
+    { "name": "Raebareli" },
+    { "name": "Sitapur" },
+    { "name": "Unnao" },
+    { "name": "Bagpat" },
+    { "name": "Bulandshahr" },
+    { "name": "Gautam Buddha Nagar" },
+    { "name": "Ghaziabad" },
+    { "name": "Hapur" },
+    { "name": "Meerut" },
+    { "name": "Bhadohi" },
+    { "name": "Mirzapur" },
+    { "name": "Sonbhadra" },
+    { "name": "Amroha" },
+    { "name": "Bijnor" },
+    { "name": "Moradabad" },
+    { "name": "Rampur" },
+    { "name": "Sambhal" },
+    { "name": "Fatehpur" },
+    { "name": "Kaushambi" },
+    { "name": "Pratapgarh" },
+    { "name": "Prayagraj" },
+    { "name": "Muzaffarnagar" },
+    { "name": "Saharanpur" },
+    { "name": "Shamli" },
+    { "name": "Chandauli" },
+    { "name": "Ghazipur" },
+    { "name": "Jaunpur" },
+    { "name": "Varanasi" }
   ]
+}
 }
