@@ -1,0 +1,7 @@
+district,host,status,reason
+Baghpat,baghpat.nic.in,dns_failure,[Errno -2] Name or service not known
+Bulandshahr,bulandshahr.nic.in,dns_failure,[Errno -2] Name or service not known
+Gautam Buddha Nagar,gautam-buddha-nagar.nic.in,dns_failure,[Errno -2] Name or service not known
+Kanpur Dehat,kanpur-dehat.nic.in,dns_failure,[Errno -2] Name or service not known
+Kanpur Nagar,kanpur-nagar.nic.in,dns_failure,[Errno -2] Name or service not known
+Sant Kabir Nagar,sant-kabir-nagar.nic.in,dns_failure,[Errno -2] Name or service not known
