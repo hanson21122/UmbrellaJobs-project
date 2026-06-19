@@ -1,0 +1,11 @@
+{
+  "total_districts": 75,
+  "valid_districts": 65,
+  "invalid_districts": 10,
+  "valid_url_tests": 108,
+  "redirected_sources": 0,
+  "not_found_sources": 96,
+  "timeout_sources": 0,
+  "error_sources": 21,
+  "success_rate": 86.67
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+logs/
+reports/jobs_export.csv
+
+*.swp
+*.swo
+
+.pytest_cache/
+.vscode/
+
+*.log
+
+job_scraper_bot_backup.py
+job_scraper_bot_broken_copy.py
